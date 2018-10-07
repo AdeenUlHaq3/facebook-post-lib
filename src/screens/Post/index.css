@@ -1,0 +1,22 @@
+.info {
+  padding: 0 5px;
+  margin: 10px auto 0px auto;
+  width: 35%;
+}
+
+.info img {
+  margin-right: 5px;
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  float: left;
+}
+
+.info .post {
+  clear: left;
+}
+
+hr {
+  border-color: #ccc !important;
+}
+  

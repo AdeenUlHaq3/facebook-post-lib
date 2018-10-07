@@ -1,0 +1,35 @@
+form {
+    width: 35%;
+    margin: 0 auto;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: none;
+}
+
+button {
+    border: none;
+    background: #548dff;
+    border: 1px solid #548dff;
+    color: #fff;
+    padding: 5px 30px;
+    float: right;
+    font-weight: bold;
+}
+
+button:hover {
+    background: transparent;
+    color: #548dff;
+}
+
+h3 {
+    color: #548dff;
+}
+
+::placeholder {
+    color: #548dff;
+    font-weight: bold;
+}
